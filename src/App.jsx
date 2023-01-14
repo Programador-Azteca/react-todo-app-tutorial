@@ -1,5 +1,6 @@
-import './App.css';
-import WelcomePage from './pages/WelcomePage';
+import React from "react";
+import "./App.css";
+import WelcomePage from "./pages/WelcomePage";
 
 function App() {
   return (
