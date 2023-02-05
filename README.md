@@ -8,13 +8,8 @@ Asegúrate de tener Node.js y npm (o yarn) instalados en tu computadora, para ma
 3. Instalar dependencias con `npm install`
 4. Arrancar proyecto con `npm start`
 
-## Variables de entorno (.env)
-```
-REACT_APP_POKEMON_ENDPOINT="https://pokeapi.co/api/v2/pokemon/"
-```
 
 ## Commandos para arrancar tu applicación
-
 #### `npm start`
 Ejecuta la applicación en modo de desarrollo.\
 Abre en el navegador la URL [http://localhost:3000](http://localhost:3000) para visualizarlo.
